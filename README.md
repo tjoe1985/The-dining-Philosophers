@@ -13,3 +13,5 @@ This is a simple implementation of Dijkstra's solution to the "Dining
 Philosophers" dilemma.
 
 ![](An_illustration_of_the_dining_philosophers_problem.png)
+
+This was based on Dr. Sawler's lecture
